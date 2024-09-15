@@ -34,7 +34,7 @@ Prerequisite for running the project:
 
 How to setup the application:
 1.Clone the repository:
-   git clone
+   git clone https://github.com/kchalapathi2002/Login_Page.git
 2.Navigate to backend:
    cd backend
    install required dependencies using npm install:
