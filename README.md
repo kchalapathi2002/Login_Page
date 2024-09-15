@@ -1,6 +1,5 @@
+#Simple login page using MERN stack
 Please see this file as code for better understanding 
-
-Title:Simple login page using MERN stack
 
 File structure defining important files:
 -backend
