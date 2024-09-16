@@ -13,14 +13,6 @@ app.use(express.json());
 app.use('/api/signup', signupRoute);
 app.use('/api/signin', signinRoute);
 
-/*app.get('/', async (req, res) => {
-    try {
-      res.json('h');
-    } catch (error) {
-      res.status(500).json({ message: 'Error fetching crypto data' });
-    }
-  });*/
-
 const PORT = 5000;
 app.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}`);
